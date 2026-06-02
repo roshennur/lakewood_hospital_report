@@ -42,3 +42,45 @@
   <li>Chronic condition patients drive 90% of all readmissions (1,282 of 1,429), representing the single largest opportunity to reduce readmission volume through targeted care transition programs.</li>
 </ul>
 <br>
+<h2 align="center">Cost & Revenue</h2>
+
+<p align="center">
+  <img src="power_bi/2.Cost analysis..png" width="1000" height="400"/>
+</p>
+<br>
+
+<table>
+  <tr>
+    <td>
+
+- Total treatment costs hit $69M across 13,429 admissions ($5,136 avg), driven by procedures (32.5%), medications (27.4%), and labs (19.9%).
+- A $19.5M revenue gap exists — $7.7M written off and $15.8M still pending — signaling significant billing and collections risk.
+- ICU costs $10,269 per stay — nearly 2x Oncology and 3.5x General Ward — making it the single largest cost containment opportunity.
+
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
