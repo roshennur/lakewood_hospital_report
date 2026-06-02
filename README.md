@@ -59,7 +59,7 @@
 
     </td>
     <td>
-      <img src="power_bi/3.Treatment_Payment..png" width="850" height="500"/>
+      <img src="power_bi/3.Treatment_Payment. - Copy - Copy.png" width="850" height="500"/>
     </td>
   </tr>
 </table>
@@ -77,10 +77,44 @@
   <li>All insurers average ~23 days processing time with minimal variation, suggesting delays are driven by internal claim preparation quality rather than payer-side bottlenecks.</li>
 </ul>
 <br>
+<h2 align="center">Patient Satisfaction Score & Length Of Stay</h2>
 
+<p align="center">
+  <img src="power_bi/5.hcahps_score.png" width="1000" height="700"/>
+</p>
+<br>
+<ul>
+  <li>Overall average score is 71.0, with satisfaction dropping sharply by department — Pulmonology scores lowest at 67.6 while Maternity leads at 73.1, a 5.5-point gap suggesting significant variation in care experience across units.</li>
+  <li>Average LOS is 6.4 days, with ICU and Pulmonology as clear outliers at 11.2 and 9.2 days — nearly double the hospital average.</li>
+  <li>LOS spiked sharply during COVID-19 in 2020 (9.4 days), nearly double pre-pandemic levels (5.1–5.3), before gradually recovering to 5.2 days by 2022–2024 — now trending at pre-pandemic norms.</li>
+  <li>Readmitted patients average 0.5 days longer per stay (6.8 vs. 6.4), suggesting incomplete recovery is driving both longer stays and return admissions.</li>
+</ul>
+<br>
+<h2 align="center">Recommendations</h2>
 
+<h3 align="left">Admission:</h3>
+<h4>Lakewood Regional Hospital should implement a targeted post-discharge follow-up program for Pulmonology and ICU patients aged 50–65 with chronic conditions — the three highest readmission risk factors. A structured 7-day and 30-day check-in protocol for this cohort could bring the hospital's readmission rate in line with the 7–8% industry benchmark. </h4>
 
+<h3 align="left">Cost & Revenue:</h3>
+<h4>Launch a revenue recovery initiative targeting the $15.8M in pending payments while reducing avoidable ICU stays through earlier step-down protocols.</h4>
 
+<h3 align="left">Insurance Claims:</h3>
+<h4>Focus on a pre-submission claims audit targeting the top denial reasons — particularly pre-authorization gaps and incomplete documentation — which together account for nearly 600 denials and an estimated $3M+ in recoverable revenue.</h4>
+
+<h3 align="left">Customer Satisfaction Score:</h3>
+<h4>Lakewood Regional should use Maternity and Outpatient as internal benchmarks — auditing their care delivery practices and applying lessons to ER and Pulmonology to meaningfully close the hospital's 5.5-point satisfaction gap.</h4>
+
+<h3 align="left">Length of stay:</h3>
+<h4>Set ward-level LOS benchmarks with discharge planning triggers at day 7 for ICU and Pulmonology — the two units with the most room to reduce extended stays and free up capacity.</h4>
+<br>
+
+<h2>Tools & Stacks used:</h2>
+<p>
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
 
 
