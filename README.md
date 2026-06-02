@@ -58,11 +58,25 @@
 - ICU costs $10,269 per stay — nearly 2x Oncology and 3.5x General Ward — making it the single largest cost containment opportunity.
 
     </td>
-    <td></td>
+    <td>
+      <img src="power_bi/3.Treatment_Payment..png" width="850" height="500"/>
+    </td>
   </tr>
 </table>
+<br>
+<h2 align="center">Insurance Claims & Performance</h2>
 
-
+<p align="center">
+  <img src="power_bi/4.Insurance Performance..png" width="1000" height="400"/>
+</p>
+<br>
+<ul>
+  <li>Of 11,599 claims totaling $59.7M, only 43.6% was approved ($26M) — with 2,038 claims denied ($10.7M) and 3,332 still pending ($17.7M), leaving over half of claimed value unresolved.</li>
+  <li>Denial reasons are evenly distributed across 7 categories — out-of-network providers, uncovered services, benefit limits, and missing pre-authorizations each accounting for ~300 denials — suggesting systemic process gaps rather than a single fixable issue.</li>
+  <li>Humana has the lowest approval rate at 39%, notably underperforming vs. Medicare/Medicaid (~44%), indicating a need for payer-specific claim reviews with Humana contracts.</li>
+  <li>All insurers average ~23 days processing time with minimal variation, suggesting delays are driven by internal claim preparation quality rather than payer-side bottlenecks.</li>
+</ul>
+<br>
 
 
 
